@@ -1,0 +1,89 @@
+[
+  {
+    "key": "Bul",
+    "value": "//*[@id='main-header']/div[3]/div/div/div/div[2]/form/div/div[1]/div[2]/input",
+    "type": "xpath"
+  },{
+  "key": "bulButton",
+  "value": "//*[@id='main-header']/div[3]/div/div/div/div[2]/form/div/div[2]/button",
+  "type": "xpath"
+},{
+  "key": "girisBekle",
+  "value": "//*[@id='main-header']/div[3]/div/div/div/div[3]/div/div[1]/div/div[2]",
+  "type": "xpath"
+},{
+  "key": "girisButton",
+  "value": "//*[@id='main-header']/div[3]/div/div/div/div[3]/div/div[1]/div[2]/div/div/div/a",
+  "type": "xpath"
+},{
+  "key": "username",
+  "value": "//*[@id='L-UserNameField']",
+  "type": "xpath"
+},{
+  "key": "userpassword",
+  "value": "//*[@id='L-PasswordField']",
+  "type": "xpath"
+},{
+  "key": "loginButton",
+  "value": "//*[@id='gg-login-enter']",
+  "type": "xpath"
+},{
+  "key": "hesabimKontrol",
+  "value": "//*[@id='main-header']/div[3]/div/div/div/div[3]/div/div[1]/div/div[2]/span",
+  "type": "xpath"
+},{
+  "key": "urunTikla",
+  "value": "//*[@class='cell-border-css']",
+  "type": "xpath"
+},{
+  "key": "urunlerList",
+  "value": "//*[@id='best-match-right']/div[3]/div[2]",
+  "type": "xpath"
+},{
+  "key": "sayfaList",
+  "value": "//*[@id='best-match-right']/div[5]/ul",
+  "type": "xpath"
+},{
+  "key": "sayfaNo",
+  "value": "//*[@id='best-match-right']/div[5]/ul/li[2]/a",
+  "type": "xpath"
+},{
+  "key": "sepet",
+  "value": "//*[@id='add-to-basket']",
+  "type": "xpath"
+},{
+  "key": "sepetegit",
+  "value": "//*[@id='header_wrapper']/div[4]/div[3]/div/div/div/div[2]/div[4]/div[1]/a",
+  "type": "xpath"
+},{
+  "key": "adet2",
+  "value": "//*[@class='amount']/option[2]",
+  "type": "xpath"
+},{
+  "key": "sepetbekle",
+  "value": "//*[@id='header_wrapper']/div[4]/div[3]",
+  "type": "xpath"
+}
+,{
+  "key": "adet1",
+  "value": "//*[@class='number-selection gg-form-item gg-w-15']",
+  "type": "xpath"
+},{
+  "key": "delete",
+  "value": "//*[@class='check gg-icon gg-icon-check-thick']",
+  "type": "xpath"
+},{
+  "key": "sayfaControl",
+  "value": "//*[@id='best-match-right']/div[4]/ul/li[3]/a",
+  "type": "xpath"
+},{
+  "key": "urunFiyat",
+  "value": "//*[@id='sp-price-lowPrice']",
+  "type": "xpath"
+},{
+  "key": "sepetFiyat",
+  "value": "//*[@class='gg-d-8 detail-price']",
+  "type": "xpath"
+}
+
+]

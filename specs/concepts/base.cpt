@@ -1,0 +1,50 @@
+
+
+# Anasayfayi ac
+* Anasayfa acildi
+* Acildigindan Emin ol "GittiGidiyor - Türkiye'nin Öncü Alışveriş Sitesi"
+* "3" saniye bekle
+
+# Giris yap ekranini ac
+* "girisBekle" elementine gel bekle
+* "2" saniye bekle
+* "girisButton" elementine tikla
+* "2" saniye bekle
+
+# Kullanici adi ve sifre ile giris yap
+* "username" elementine "gittigidiyortest96@gmail.com" yaz
+* "userpassword" elementine "Test96.." yaz
+* "loginButton" elementine tikla
+* "3" saniye bekle
+* "hesabimKontrol" elementte varmi "gittigidiyor426607" kontrol et
+
+# Arama kutucuguna bilgisayar kelimesi gir
+* "Bul" elementine "Bilgisayar" yaz
+* "bulButton" elementine tikla
+* "5" saniye bekle
+
+# 2.sayfayi ac
+* "sayfaNo" elementine gel bekle
+* "5" saniye bekle
+* "sayfaNo" elementine tikla
+* "10" saniye bekle
+* "sayfaControl" dogru sayfa mi
+* "10" saniye bekle
+
+# Rastgele urun sec
+* "urunlerList" elementine gel "urunTikla" sayfaya tikla
+* "10" saniye bekle
+* "urunFiyat" fiyat tut
+* "5" saniye bekle
+
+#Secilen urunu sepete ekle
+* "sepet" elementine tikla
+* "5" saniye bekle
+* "sepetbekle" elementine gel bekle
+* "5" saniye bekle
+* "sepetegit" elementine tikla
+* "10" saniye bekle
+
+#Urun Fiyat Karsilastir
+* "sepetFiyat" ile karsilastir
+* "10" saniye bekle
